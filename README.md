@@ -1,4 +1,6 @@
-A compound interest calculator created as a challange on IGTI web developer bootcamp
+A compound interest calculator created as a challange on IGTI fullstack web developer bootcamp. As a study app, it has a lot of comments with some remarks and some things to be improved.
+
+## REACT DEFAULT INSTRUCTIONS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

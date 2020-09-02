@@ -1,5 +1,5 @@
 // O cálculo é feito em Installments com useEffect
-// Acredito que parao React monitorar os inputs e reagir automaticamente
+// Acredito que para o React monitorar os inputs e reagir automaticamente
 // às modificações dos seus valores
 
 import React, { useState } from 'react';
