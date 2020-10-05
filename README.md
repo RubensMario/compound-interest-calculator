@@ -1,10 +1,20 @@
-A compound interest calculator created as a challange on IGTI fullstack web developer bootcamp. As a study app, it has a lot of comments with some remarks and some things to be improved.
+# Compound interest calculator
+
+A compound interest calculator. As a study app, it has a lot of comments with some remarks and some things to be improved.
+
+The app is a compound interest calculator, made with React, which gives the total capital amount, the profit, and the profit percentage in cards dynamically generated as the user gives the calculation period, with the initial amount, and the interest rate. The values shown in the cards can be blue or red deppending on whether the results are positive or negative.
+
+## Preview
+
+![](CompundInterest_preview.gif)
+
+Sorry by the poor quality image!
 
 ## REACT DEFAULT INSTRUCTIONS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -41,7 +51,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -70,3 +80,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Acknowledegment
+
+This app was developed as a challenge in the IGTI fullstack web developer bootcamp.
