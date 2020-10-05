@@ -8,7 +8,7 @@ The app is a compound interest calculator, made with React, which gives the tota
 
 ![](CompundInterest_preview.gif)
 
-Sorry by the poor quality image!
+_Sorry by the poor quality image!_
 
 ## REACT DEFAULT INSTRUCTIONS
 
